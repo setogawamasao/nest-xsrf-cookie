@@ -1,0 +1,7 @@
+@host = localhost:3000
+
+### GET
+GET http://{{host}}/csrf-token
+
+### Post
+POST http://{{host}}/example
