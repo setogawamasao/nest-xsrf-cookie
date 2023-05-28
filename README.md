@@ -12,7 +12,7 @@ npm run start:dev
 
 ## 動作確認
 
-- csrf トークン取得
+- csrf トークン取得：ログイン時に呼ぶ
 
   http://localhost:3000/csrf-token  
   src\app.controller.ts
