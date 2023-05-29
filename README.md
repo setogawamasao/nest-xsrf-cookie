@@ -6,6 +6,11 @@
 - npm i cookie-parser
 - npm i -D @types/cookie-parser
 
+## 設定
+
+tsconfig.json に下記に設定する
+"esModuleInterop": true
+
 ## 起動
 
 npm run start:dev
